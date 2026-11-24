@@ -7,5 +7,5 @@ app.listen(3000 , (err) => {
         console.error('nao subiu', err)
         process.exit(1)
     }
-    console.log('subiu na porta 3000')
+    console.log('subiu')
 })
